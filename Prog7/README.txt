@@ -1,0 +1,1 @@
+NOTE: The function I have implemented for my SpRT Server is called "Hello." When prompted for a function, enter "Hello" without quotation marks. The server should return the message "Hello!" without quotation marks and terminate the connection - as well as having the SPA server record the exchange, of course.
